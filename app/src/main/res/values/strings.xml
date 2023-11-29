@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ShashiShivaTech</string>
+    <string name="no_internet_connection">No Internet Connection !</string>
+    <string name="no_network_available_please_check_your_wifi_or_data_connection">No network available, please check your WiFi or Data connection.</string>
+    <string name="retry">Retry</string>
+
+</resources>
